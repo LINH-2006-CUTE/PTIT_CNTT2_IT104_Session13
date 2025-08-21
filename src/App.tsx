@@ -1,19 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-
+// import ListItem from "./components/ListItem";
+// import Exercises01 from "./components/Exercises01";
+import Exercise02 from "./components/Exercise02";
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      
-      <p className="read-the-docs">
-        bai 13
-      </p>
-    </>
+    // <Exercises01/>
+    <Exercise02/>
   )
+    
+  
 }
 
 export default App
