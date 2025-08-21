@@ -22,7 +22,6 @@ class Exercise02 extends Component<{},Info> {
                 date: {this.state.date} <br />
                 address: {this.state.address}
 
-
             </p>
 
         </>
